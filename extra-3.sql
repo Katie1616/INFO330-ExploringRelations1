@@ -1,0 +1,1 @@
+select max(age), min(age), avg(age) from persons;
